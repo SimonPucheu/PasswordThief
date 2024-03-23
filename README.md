@@ -1,4 +1,4 @@
-# PasswordStoler
+# PasswordThief
 This is a python that retrieves saved passwords from several web browsers such as Firefox, Chrome, Opera...
 
 This code works with the following list of web browsers:
@@ -14,4 +14,4 @@ Vivaldi
 
 It's not my code, the source is [vende11s/BrowserPassStoler](https://github.com/vende11s/BrowserPassStoler/)
 
-**Warning!** If you use this program in any manner that is against law than you only are responsible for the same.
+**Warning!** This code is for educational purposes only. If you use this program in any manner that is against law then you and only you are responsible for the consequences of this program.
